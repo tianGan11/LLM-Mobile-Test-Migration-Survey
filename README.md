@@ -9,6 +9,8 @@ This repository contains the comprehensive Bachelor Seminar Report and associate
 
 Testing mobile applications across heterogeneous Android devices remains challenging due to ecosystem fragmentation and the brittleness of UI-dependent automation techniques[cite: 5]. This project examines how recent LLM-based approaches address this limitation by shifting test migration from structure-level mapping to intention-level reasoning[cite: 5].
 
+![Pipeline](docs/figure1.png)
+
 ## 🎯 Key Research Questions
 * **The Paradigm Shift:** How do LLMs overcome the limitations of traditional, static UI attribute-based migration frameworks (e.g., CraftDroid, AppFlow) when facing structurally dissimilar applications?
 * **Pipeline Mechanics:** How can the complex process of LLM-driven test migration be standardized into a unified operational pipeline?[cite: 5]
